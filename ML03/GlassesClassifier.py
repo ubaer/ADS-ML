@@ -1,8 +1,9 @@
-from IPython.display import display, clear_output
+from IPython.display import clear_output
 from pylab import *
 from sklearn import datasets
 import matplotlib.pyplot as plt
 import json
+
 
 class Trainer:
     def __init__(self):
@@ -23,8 +24,6 @@ class Trainer:
         self.results[str(self.index)] = glasses
 
 
-
-
 def press(event):
     print('press', event.key)
     sys.stdout.flush()
@@ -34,11 +33,12 @@ def press(event):
         update_glasses(1)
     if event.key == 'y':
         save_close()
-    if event.key =='b':
+    if event.key == 'b':
         previous_picture()
 
+
 def display_face(face):
-    if(trainer.index < 400):
+    if (trainer.index < 400):
         clear_output()
         fig, ax = plt.subplots()
         fig.canvas.mpl_connect('key_press_event', press)
@@ -48,11 +48,13 @@ def display_face(face):
     else:
         save_close()
 
+
 def update_glasses(b):
     trainer.record_result(glasses=b)
     trainer.increment_face()
     plt.close()
     display_face(trainer.imgs[trainer.index])
+
 
 def save_close():
     with open('results.xml', 'w') as f:
