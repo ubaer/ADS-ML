@@ -1,0 +1,54 @@
+course_code,course_name,score,semester,fun,quality,group_members,like_classmates
+OIM11  ,Oriëntatie ICT & Media Design,  6,1,4,3,1,4
+OIB11  ,Oriëntatie ICT & Business,  6,1,4,5,1,4
+OIS11  ,Oriëntatie ICT & Software Engineering,  8,1,8,5,1,6
+OIT11  ,Oriëntatie ICT & Technology,  7,1,8,6,1,6
+SE2A  ,Software engineering 2,  7,1,7,6,1,5
+DBS2  ,Databases 2,  7,1,5,6,1,6
+DBS12  ,Databases 1,  7,1,5,7,1,6
+SE12  ,Software engineering 1,  7,1,7,6,1,6
+ES12  ,Embedded systems 1,  8,1,7,8,2,6
+PT11  ,Proftaak P1,  7,1,8,7,5,5
+IN2  ,Infrastructuren 2,  7,2,7,8,1,6
+PT12  ,Proftaak P2,  8,2,9,7,5,5
+LPS-PD  ,Live Performance: Product (30%),  8,2,8,8,1,5
+LPS-PR  ,Live Performance: Presentatie (15%),  8,2,8,8,1,5
+LPS-VE  ,Live Performance: Verslag (30%),  8,2,8,8,1,5
+POS  ,Professionele ontwikkeling (25%),  8,2,8,8,1,5
+PTS2  ,ICT4Events,  7,2,7,6,5,5
+VP-ASSSA  ,Propedeuse assessment ICT & Software Engineering,  8,2,7,7,1,6
+VP-S2A  ,Semester 2 ICT & Software Engineering,  7,2,8,6,1,5
+STS-PD2  ,Product (40%),  8,2,8,8,1,5
+STS-PS2  ,Presentatie (20%),  9,2,8,8,1,5
+STS-VE2  ,Verslag (20%),  8,2,8,8,1,5
+VK-PS3B  ,Distributed Software Engineering,  9,3,6,6,1,6
+VSA3B  ,Vrije studieactiviteit S3,  8,3,8,7,1,6
+PTS3A  ,Proftaak,  9,3,9,9,5,7
+GSO3A  ,Gedistribueerd software ontwerp,  8,3,7,8,2,7
+JSF32B  ,Software foundations in Java 2,  10,3,8,7,2,7
+SMPT4A  ,Smart Mobile proftaak,  7,3,7,6,4,8
+VK-SMB4  ,Android development,  7,3,7,3,2,8
+SMTE4A  ,Smart Mobile technology,  6,3,5,3,2,8
+JSF31B  ,Software foundations in Java 1,  8,3,8,7,2,7
+C2J3B  ,C# to Java,  8,3,8,9,2,6
+SMTE3A  ,Smart Mobile technology,  6,3,6,4,2,7
+BS41B  ,Business study 1,  8,4,5,8,4,7
+JCF41B  ,Java collection framework,  10,4,7,5,2,7
+UIE4  ,User interface engineering,  8,4,5,4,4,5
+VSA4B  ,Vrije studieactiviteit S4,  8,4,8,7,1,6
+SMPT3A  ,Smart Mobile proftaak,  8,4,8,4,4,5
+VK-SMA4  ,iOS development,  7,4,5,3,2,5
+SE42B  ,Software engineering 5,  7,4,7,7,2,7
+VK-PS4B  ,Agile Software Engineering in Enterprises,  8,4,6,6,2,7
+BS42B  ,Business study 2,  9,4,6,7,4,8
+PTS4A  ,Agile,  8,4,7,7,4,7
+VKS-ST2  ,Stage ICT & Software Engineering,  8,5,9,8,1,8
+VK-ASSS  ,Kernfase assessment,  8,5,7,6,1,8
+VK-PKS5  ,Professionalisering Kernfase,  8,5,7,6,1,8
+DBO6A  ,Database optimalisatie,  8,6,7,7,2,7
+ESD6  ,Enterprise Software development,  8,6,6,4,1,7
+SOP6A  ,Software ontwikkelproces,  8,6,6,5,2,5
+VE-PS6A  ,Enterprise Software Engineering,  7,6,7,6,6,6
+PES6A  ,Professionalisering eindfase,  7,6,6,5,1,6
+JEA6A  ,Java enterprise applications,  7,6,6,4,1,6
+DPI6A  ,Design patterns voor integratie,  7,6,7,7,1,6
